@@ -14,13 +14,14 @@ A simple and elegant AMP (Accelerated Mobile Pages) 404 Page Template.
 * Github CLI: gh repo clone rolandfarkasCOM/simple-amp-404-template
 * WGET: wget https://github.com/rolandfarkasCOM/simple-amp-404-template
 
-## Authors
+## Author:
 
-Contributors names and contact info
-
-ex. [@rolandfarkasCOM] (https://github.com/rolandfarkasCOM/)  
+* [@rolandfarkasCOM] (https://github.com/rolandfarkasCOM/)  
 
 ## Version History
+
+* 0.2
+    * Updated readme.md
 
 * 0.1
     * Initial Release
