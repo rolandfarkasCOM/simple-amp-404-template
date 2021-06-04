@@ -8,7 +8,7 @@ A simple and elegant AMP (Accelerated Mobile Pages) 404 Page Template.
 
 ### Demo 
 
-https://demo.rolandfarkas.com/simple-amp-404-template/
+[Visit Demo] (https://demo.rolandfarkas.com/simple-amp-404-template/)
 
 ### Installing
 
